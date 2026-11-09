@@ -8,9 +8,9 @@ prompts.chat 提示词库中文版 — 全球最大开源 AI 提示词库，带�
 
 | 文件 | 说明 |
 | --- | --- |
-| `prompts.csv` | 上游原版提示词数据（英文，2,925 条） |
-| `PROMPTS.md` | 上游原版提示词 Markdown 版 |
-| `prompts_zh.json` | 中文版：每条含中文标题 `act_zh`、中文一句话说明 `desc_zh`，提示词正文保留英文原文（贴给 AI 用英文效果更好） |
+| [prompts.csv](prompts.csv) | 上游原版提示词数据（英文，2,925 条） |
+| [PROMPTS.md](PROMPTS.md) | 上游原版提示词 Markdown 版 |
+| [prompts_zh.json](prompts_zh.json) | 中文版：每条含中文标题 `act_zh`、中文一句话说明 `desc_zh`，提示词正文保留英文原文（贴给 AI 用英文效果更好） |
 
 ## 怎么用
 
